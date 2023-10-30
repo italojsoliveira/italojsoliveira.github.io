@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Italo Oliveira.
+Ph.D. Candidate in Computer Science at the Free University of Bozen-Bolzano, Italy.
+
+Guest Researcher at the University of Twente, Netherlands.
