@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ítalo Oliveira"
-excerpt: "Ítalo Oliveira"
+#excerpt: "Ítalo Oliveira"
 author_profile: true
 redirect_from: 
   - /about/
