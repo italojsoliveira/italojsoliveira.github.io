@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ítalo Oliveira"
+title: "Ítalo"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
