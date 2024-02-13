@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Candidate in Computer Science at the Free University of Bozen-Bolzano, Italy.
-
-Guest Researcher at the University of Twente, Netherlands.
+Ph.D. candidate in Computer Science at the [University of Twente](https://people.utwente.nl/i.j.dasilvaoliveira), Netherlands, and [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/phd-computer-science/phd-students/phd/42998-italo-jose-da-silva-oliveira), Italy.
 
 
 - Research areas:
