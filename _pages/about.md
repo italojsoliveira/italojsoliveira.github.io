@@ -15,7 +15,7 @@ Ph.D. candidate in Computer Science at the [University of Twente](https://people
   - Applied Ontology
   - Conceptual Modeling
   - Knowledge Representation, Ontology Engineering
-  - Security Modeling
+  - Risk and Security Modeling
   - Philosophy of Law
 
 
