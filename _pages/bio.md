@@ -9,7 +9,7 @@ author_profile: true
 <figure>
     <img src="/images/atacama-chile.jpg" width="200" height="100"
          alt="Atacama, Chile">
-    <figcaption>In Atacama desert in Chile, 2019.</figcaption>
+    <figcaption>In Atacama desert, Chile🇨🇱, 2019.</figcaption>
 </figure>
 
 My full name is "Ítalo José da Silva Oliveira", but I sign my scientific publications as "Ítalo Oliveira" only.🙂
@@ -27,6 +27,12 @@ I have always been persistent in chasing my goals. However, I have been extremel
 ### 2020
 
 - Living abroad on my own, I had to deal with the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) while doing a PhD in Computer Science at the Free University of Bozen-Bolzano, Italy🇮🇹.
+
+<figure>
+    <img src="/images/southtirol.jpg" width="200" height="100"
+         alt="South Tyrol, Italy">
+    <figcaption>In South Tyrol, Italy, 2021.</figcaption>
+</figure>
 
 ### 2019
 
