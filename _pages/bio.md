@@ -8,9 +8,7 @@ author_profile: true
 My full name is "Ítalo José da Silva Oliveira", but I sign my scientific publications as "Ítalo Oliveira" only.🙂
 
 
-With a background as a Lawyer, Law Teacher, and Researcher in Philosophy of Law, I decided to pursue a career in Computer Science, believing information technology is taking over every aspect of society and every research field.
-
-
+With a background as a Lawyer, Law Teacher, and Researcher in the Philosophy of Law, fascinated by mathematical logic, which I met due to my philosophy studies, I decided to pursue a career in Computer Science, believing information technology is taking over every aspect of society and every research field.
 
 
 ### 2023
@@ -33,7 +31,7 @@ With a background as a Lawyer, Law Teacher, and Researcher in Philosophy of Law,
 
 - I received a grant to participate in the [ICCL Summer School 'Bridging the Gap between Human and Automated Reasoning'](https://iccl.inf.tu-dresden.de/web/SummerSchool2017) at the Dresden University of Technology, Germany.
 
-- In the context of the joint CNRS (France) and FACEPE (Brazil) project "[Reconciling Description Logic and Non-Monotonic Reasoning in the Legal Domain](https://www.cril.univ-artois.fr/en/projects/dlnmr/)", collaborating with Prof. Ivan Varzinczak, [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en), and [Cleyton Rodrigues](https://scholar.google.com/citations?user=BPveCTMAAAAJ&hl=en), I made a research visit to the Computer science Research Institute of Lens, Université d’Artois, France.
+- In the context of the joint CNRS (France) and FACEPE (Brazil) project "[Reconciling Description Logic and Non-Monotonic Reasoning in the Legal Domain](https://www.cril.univ-artois.fr/en/projects/dlnmr/)", collaborating with Prof. [Ivan Varzinczak](https://ijv.ovh/), [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en), and [Cleyton Rodrigues](https://scholar.google.com/citations?user=BPveCTMAAAAJ&hl=en), I made a research visit to the Computer science Research Institute of Lens, Université d’Artois, France.
 
 ### 2016
 
