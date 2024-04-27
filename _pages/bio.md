@@ -45,7 +45,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 - I received a grant to participate in the [Hilbert Bernays Summer School on Logic and Computation](https://gcms-devops1.uni-goettingen.de/en/505718.html) at the University of Göttingen, Germany🇩🇪. It was my first international trip.
 
-- I passed the bar examination administered by the Order of Attorneys of Brazil in Pernambuco🇧🇷, which granted me to practice in any court or jurisdiction of the country.
+- I passed the bar examination administered by the Order of Attorneys of Brazil in Pernambuco🇧🇷, which granted me the right to practice in any court or jurisdiction of the country.
 
 ### 2012
 
