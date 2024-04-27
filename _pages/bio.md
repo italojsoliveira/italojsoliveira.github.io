@@ -10,7 +10,7 @@ My full name is "Ítalo José da Silva Oliveira", but I sign my scientific publi
 
 With a background as a Lawyer, Law Teacher, and Researcher in the Philosophy of Law, fascinated by mathematical logic, which I met due to my philosophy studies, I decided to pursue a career in Computer Science, believing information technology is taking over every aspect of society and every research field.
 
-I have been extremely fortunate to meet incredible and kind people without whom I would not have gone anywhere.
+I have been extremely fortunate to meet incredible and kind people without whom I would not have achieved anywhere.
 
 
 ### 2023
