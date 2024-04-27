@@ -5,9 +5,10 @@ permalink: /ontologies/
 author_profile: true
 ---
 
-{% include base_path %}
+Test T
 
-Test
+
+{% include base_path %}
 
 {% for post in site.ontologies %}
   {% include archive-single.html %}
