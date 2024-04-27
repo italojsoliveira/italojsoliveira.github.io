@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Ontologies"
+collection: ontologies
 permalink: /ontologies/
 author_profile: true
 ---
