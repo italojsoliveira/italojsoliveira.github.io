@@ -5,7 +5,7 @@ permalink: /ontologies/
 author_profile: true
 ---
 
-## [A formal Theory of Prevention](https://purl.org/prevention-ontology)
+## [A Formal Theory of Prevention](https://purl.org/prevention-ontology)
 
 Built as a module of the Unified Foundational Ontology, this proposal describes the dynamics of events that prevent other events from happening. A complete formalization of this theory is in progress.
 

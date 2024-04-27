@@ -22,8 +22,6 @@ Ph.D. candidate in Computer Science at the [University of Twente](https://people
 
 
 
-
-
 ### ToolBox
 
 [![](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
