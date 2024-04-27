@@ -11,17 +11,19 @@ My full name is "Ítalo José da Silva Oliveira", but I sign my scientific publi
 With a background as a Lawyer, Law Teacher, and Researcher in Philosophy of Law, I decided to pursue a career in Computer Science, believing information technology is taking over every aspect of society and every research field.
 
 
+
+
 ### 2023
 
-- I moved from Italy to Enschede, Netherlands, to work at the University of Twente.
+- I moved from Italy to Enschede, Netherlands, to work as a Guest Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)) at the University of Twente.
 
 ### 2020
 
-- Living abroad on my own, I had to deal with the COVID-19 global pandemic while doing a PhD in Computer Science at the Free University of Bozen-Bolzano, Italy.
+- Living abroad on my own, I had to deal with the [COVID-19 global pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) while doing a PhD in Computer Science at the Free University of Bozen-Bolzano, Italy.
 
 ### 2019
 
-- I obtained a Doctor in Law degree at the Federal University of Pernambuco, Brazil, researching artificial intelligence as a solution for the court congestion problem.
+- I obtained a Doctor in Law degree at the Federal University of Pernambuco, Brazil, researching artificial intelligence as a solution for the court congestion problem under the supervision of [Prof. Torquato da Silva Castro Júnior](http://lattes.cnpq.br/3738419253523414) and [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en).
 
 ### 2018
 
@@ -29,11 +31,13 @@ With a background as a Lawyer, Law Teacher, and Researcher in Philosophy of Law,
 
 ### 2017
 
-- I received a grant to participate in the [ICCL Summer School 'Bridging the Gap between Human and Automated Reasoning'](https://iccl.inf.tu-dresden.de/web/SummerSchool2017) at the Dresden University of Technology, Germany. 
+- I received a grant to participate in the [ICCL Summer School 'Bridging the Gap between Human and Automated Reasoning'](https://iccl.inf.tu-dresden.de/web/SummerSchool2017) at the Dresden University of Technology, Germany.
+
+- In the context of the joint CNRS (France) and FACEPE (Brazil) project "[Reconciling Description Logic and Non-Monotonic Reasoning in the Legal Domain](https://www.cril.univ-artois.fr/en/projects/dlnmr/)", collaborating with Prof. Ivan Varzinczak, [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en), and [Cleyton Rodrigues](https://scholar.google.com/citations?user=BPveCTMAAAAJ&hl=en), I made a research visit to the Computer science Research Institute of Lens, Université d’Artois, France.
 
 ### 2016
 
-- I obtained a Master's degree in Law at the Federal University of Pernambuco, Brazil, researching the problem of the definition of the concept of law and legal science.
+- I obtained a Master's degree in Law at the Federal University of Pernambuco, Brazil, researching the philosophical problem of the definition of the concept of law and legal science.
 
 ### 2015
 
