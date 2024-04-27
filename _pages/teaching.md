@@ -12,8 +12,8 @@ I have experience teaching themes related to Legal Hermeneutics, Critical Thinki
 - [Law, Research and Methodology](https://sites.google.com/view/italojsoliveira/teaching/law-research-and-methodology)
 
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
