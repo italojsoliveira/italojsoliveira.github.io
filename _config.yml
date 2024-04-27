@@ -49,6 +49,13 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+# Set a path/url to a favicon that will be displayed by the browser
+# favicon_ico: "/assets/images/favicon.ico"
+# If the path to your favicon is /favicon.ico, you can leave favicon_ico unset.
+favicon_ico: "favicon.ico"
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
