@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Ontologies"
-permalink: /ontologies/
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ Test T
 
 {% include base_path %}
 
-{% for post in site.ontologies %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
