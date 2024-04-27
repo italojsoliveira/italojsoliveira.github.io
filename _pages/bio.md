@@ -31,7 +31,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 <figure>
     <img src="/images/southtirol.jpg" width="200" height="100"
          alt="South Tyrol, Italy">
-    <figcaption>In South Tyrol, Italy, 2021.</figcaption>
+    <figcaption>In South Tyrol, Italy🇮🇹, 2021.</figcaption>
 </figure>
 
 ### 2019
