@@ -7,7 +7,7 @@ author_profile: true
 
 
 <figure>
-    <img src="/images/atacama-chile.jpg" width="300" height="200"
+    <img src="/images/atacama-chile.jpg" width="200" height="100"
          alt="Atacama, Chile">
     <figcaption>In Atacama desert in Chile, 2019.</figcaption>
 </figure>
