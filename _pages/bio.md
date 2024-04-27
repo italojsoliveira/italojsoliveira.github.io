@@ -5,6 +5,13 @@ permalink: /bio/
 author_profile: true
 ---
 
+
+<figure>
+    <img src="/images/atacama-chile.jpg" width="300" height="200"
+         alt="Atacama, Chile">
+    <figcaption>In Atacama desert in Chile, 2019.</figcaption>
+</figure>
+
 My full name is "Ítalo José da Silva Oliveira", but I sign my scientific publications as "Ítalo Oliveira" only.🙂
 
 
