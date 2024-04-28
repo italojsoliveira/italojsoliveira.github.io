@@ -62,7 +62,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2012
 
-- I obtained a Bachelor's degree in Law at the Federal University of Pernambuco, Brazil🇧🇷.]
+- I obtained a Bachelor's degree in Law at the Federal University of Pernambuco, Brazil🇧🇷.
 
 
 ### 2011

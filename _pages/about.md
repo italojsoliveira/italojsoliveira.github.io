@@ -19,4 +19,4 @@ Ph.D. candidate in Computer Science at the [University of Twente](https://people
   - Knowledge Representation, Ontology Engineering
   - Risk Management and Cybersecurity
 
-I causally blog [Not So Short Notes](https://notsoshortnotes.wordpress.com/).
+I casually blog [Not So Short Notes](https://notsoshortnotes.wordpress.com/).
