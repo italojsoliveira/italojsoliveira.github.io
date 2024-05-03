@@ -14,9 +14,10 @@ Ph.D. candidate in Computer Science at the [University of Twente](https://people
 
 
 - Current research areas:
-  - Applied Ontology
   - Conceptual Modeling
-  - Knowledge Representation, Ontology Engineering
+  - Applied Ontology
+  - Ontology Engineering | Knowledge Representation
+  - Enterprise Modeling
   - Risk Management and Cybersecurity
 
 I casually blog [Not So Short Notes](https://notsoshortnotes.wordpress.com/).
