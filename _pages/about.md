@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente.
+Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente, Netherlands🇳🇱.
 
-Ph.D. degree in Computer Science from the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/phd-computer-science/phd-students/phd/42998-italo-jose-da-silva-oliveira), Italy.
+Ph.D. degree in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹.
 
-Ph.D. degree in Law from the Federal University of Pernambuco.
+Ph.D. degree in Law from the Federal University of Pernambuco, Brazil🇧🇷.
 
 
 - Current research areas:
