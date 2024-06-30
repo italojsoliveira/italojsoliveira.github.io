@@ -22,6 +22,12 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2024
 
+<figure>
+    <img src="/images/defense.png" width="200" height="100"
+         alt="PhD thesis defense, Unibz">
+    <figcaption>My PhD thesis defense at Faculty of Engineering of the Free University of Bozen-Bolzano, Italy, 2024. From left to right: Manfred Jeusfeld, Tiago Prince Sales, myself, Giancarlo Guizzardi, Enrico Franconi, and Raimundas Matulevičius</figcaption>
+</figure>
+
 - I obtained a PhD degree in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹, researching ontology-driven conceptual modeling applied to the security domain, under the supervision of [Enrico Franconi](https://www.inf.unibz.it/~franconi/), [Giancarlo Guizzardi](https://en.wikipedia.org/wiki/Giancarlo_Guizzardi), and [Tiago Prince Sales](https://people.utwente.nl/t.princesales).
 
 ### 2023
