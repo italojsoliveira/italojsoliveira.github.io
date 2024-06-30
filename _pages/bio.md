@@ -27,7 +27,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 <figure>
     <img src="/images/defense.png" width="200" height="100"
          alt="PhD thesis defense, Unibz">
-    <figcaption>After my successful PhD thesis defense at the Faculty of Engineering of the Free University of Bozen-Bolzano, Italy🇮🇹, 2024. From left to right: <a href="https://scholar.google.se/citations?user=tC2X4k0AAAAJ">Manfred Jeusfeld</a> [Manfred Jeusfeld](https://scholar.google.se/citations?user=tC2X4k0AAAAJ), [Tiago Prince Sales](https://people.utwente.nl/t.princesales), myself, [Giancarlo Guizzardi](https://en.wikipedia.org/wiki/Giancarlo_Guizzardi), [Enrico Franconi](https://www.inf.unibz.it/~franconi/), and [Raimundas Matulevičius](https://scholar.google.com/citations?user=2CN14WkAAAAJ)</figcaption>
+    <figcaption>After my successful PhD thesis defense at the Faculty of Engineering of the Free University of Bozen-Bolzano, Italy🇮🇹, 2024. From left to right: <a href="https://scholar.google.se/citations?user=tC2X4k0AAAAJ">Manfred Jeusfeld</a>, <a href="https://people.utwente.nl/t.princesales">Tiago Prince Sales</a>, myself, <a href="https://en.wikipedia.org/wiki/Giancarlo_Guizzardi">Giancarlo Guizzardi</a>, <a href="https://www.inf.unibz.it/~franconi/">Enrico Franconi</a>, and <a href="https://scholar.google.com/citations?user=2CN14WkAAAAJ">Raimundas Matulevičius</a>.</figcaption>
 </figure>
 
 ### 2023
