@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Researcher member of the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente.
+Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente.
 
-Ph.D. candidate in Computer Science at the [University of Twente](https://people.utwente.nl/i.j.dasilvaoliveira), Netherlands, and [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/phd-computer-science/phd-students/phd/42998-italo-jose-da-silva-oliveira), Italy.
+Ph.D. degree in Computer Science from the [Free University of Bozen-Bolzano](https://www.unibz.it/en/faculties/engineering/phd-computer-science/phd-students/phd/42998-italo-jose-da-silva-oliveira), Italy.
+
+Ph.D. degree in Law from the Federal University of Pernambuco.
 
 
 - Current research areas:

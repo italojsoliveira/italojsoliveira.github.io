@@ -20,6 +20,10 @@ With a background as a Lawyer, Law Teacher, and Researcher in the Philosophy of 
 I have always been persistent in chasing my goals. However, I have been extremely fortunate to meet incredible and kind people without whom I would not have achieved anything.
 
 
+### 2024
+
+- I obtained a PhD degree in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹, researching ontology-driven conceptual modeling applied to the security domain, under the supervision of [Enrico Franconi](https://www.inf.unibz.it/~franconi/), [Giancarlo Guizzardi](https://en.wikipedia.org/wiki/Giancarlo_Guizzardi), and [Tiago Prince Sales](https://people.utwente.nl/t.princesales).
+
 ### 2023
 
 - I moved from Italy to Enschede, Netherlands🇳🇱, to work as a Guest Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)) at the University of Twente.
@@ -36,7 +40,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2019
 
-- I obtained a Doctor in Law degree at the Federal University of Pernambuco, Brazil🇧🇷, researching artificial intelligence as a solution for the court congestion problem under the supervision of [Prof. Torquato da Silva Castro Júnior](http://lattes.cnpq.br/3738419253523414) and [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en).
+- I obtained a Doctor in Law degree from the Federal University of Pernambuco, Brazil🇧🇷, researching artificial intelligence as a solution for the court congestion problem under the supervision of [Prof. Torquato da Silva Castro Júnior](http://lattes.cnpq.br/3738419253523414) and [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en).
 
 ### 2018
 
@@ -52,7 +56,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2016
 
-- I obtained a Master's degree in Law at the Federal University of Pernambuco, Brazil🇧🇷, researching the philosophical problem of the definition of the concept of law and legal science.
+- I obtained a Master's degree in Law from the Federal University of Pernambuco, Brazil🇧🇷, researching the philosophical problem of the definition of the concept of law and legal science.
 
 ### 2015
 
@@ -62,7 +66,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2012
 
-- I obtained a Bachelor's degree in Law at the Federal University of Pernambuco, Brazil🇧🇷.
+- I obtained a Bachelor's degree in Law from the Federal University of Pernambuco, Brazil🇧🇷.
 
 
 ### 2011
