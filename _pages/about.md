@@ -12,7 +12,7 @@ Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://w
 
 PhD in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹.
 
-Doctor in Law from the Federal University of Pernambuco, Brazil🇧🇷.
+Doctor of Law from the Federal University of Pernambuco, Brazil🇧🇷.
 
 Currently, I am interested in developing ontologically well-founded and logically rigorous technology solutions for risk management, particularly in cybersecurity.
 
