@@ -10,9 +10,9 @@ redirect_from:
 
 Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)), University of Twente, Netherlands🇳🇱.
 
-PhD degree in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹.
+PhD in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹.
 
-Doctor in Law degree from the Federal University of Pernambuco, Brazil🇧🇷.
+Doctor in Law from the Federal University of Pernambuco, Brazil🇧🇷.
 
 
 - Current research areas:

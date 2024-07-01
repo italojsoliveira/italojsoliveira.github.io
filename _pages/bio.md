@@ -22,7 +22,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2024
 
-- I obtained a PhD degree in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹, researching ontology-driven conceptual modeling applied to the security domain, under the supervision of [Enrico Franconi](https://www.inf.unibz.it/~franconi/), [Giancarlo Guizzardi](https://en.wikipedia.org/wiki/Giancarlo_Guizzardi), and [Tiago Prince Sales](https://people.utwente.nl/t.princesales).
+- I obtained a PhD in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹, researching ontology-driven conceptual modeling applied to the security domain, under the supervision of [Enrico Franconi](https://www.inf.unibz.it/~franconi/), [Giancarlo Guizzardi](https://en.wikipedia.org/wiki/Giancarlo_Guizzardi), and [Tiago Prince Sales](https://people.utwente.nl/t.princesales).
 
 <figure>
     <img src="/images/defense.png" width="200" height="100"
@@ -46,7 +46,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2019
 
-- I obtained a Doctor in Law degree from the Federal University of Pernambuco, Brazil🇧🇷, researching artificial intelligence as a solution for the court congestion problem under the supervision of [Prof. Torquato da Silva Castro Júnior](http://lattes.cnpq.br/3738419253523414) and [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en).
+- I obtained a Doctor in Law from the Federal University of Pernambuco, Brazil🇧🇷, researching artificial intelligence as a solution for the court congestion problem under the supervision of [Prof. Torquato da Silva Castro Júnior](http://lattes.cnpq.br/3738419253523414) and [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en).
 
 ### 2018
 
