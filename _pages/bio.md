@@ -30,6 +30,8 @@ I have always been persistent in chasing my goals. However, I have been extremel
     <figcaption>After my successful PhD thesis defense at the Faculty of Engineering of the Free University of Bozen-Bolzano, Italy🇮🇹, 2024. From left to right: <a href="https://scholar.google.se/citations?user=tC2X4k0AAAAJ">Manfred Jeusfeld</a>, <a href="https://people.utwente.nl/t.princesales">Tiago Prince Sales</a>, myself, <a href="https://en.wikipedia.org/wiki/Giancarlo_Guizzardi">Giancarlo Guizzardi</a>, <a href="https://www.inf.unibz.it/~franconi/">Enrico Franconi</a>, and <a href="https://scholar.google.com/citations?user=2CN14WkAAAAJ">Raimundas Matulevičius</a>.</figcaption>
 </figure>
 
+- I was part of the organization team of the [2024 International Conference on Formal Ontology in Information Systems (FOIS)](https://www.utwente.nl/en/eemcs/fois2024/), which happened at the University of Twente. Moreover, I organized the [Semantic Shields I: 1st International Workshop on Modeling for Cybersecurity(https://www.utwente.nl/en/eemcs/semantic-shields/)], one of the 2024 Joint Ontology Workshops (JOWO), co-located with FOIS.
+
 ### 2023
 
 - I moved from Italy to Enschede, Netherlands🇳🇱, to work as a Guest Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)) at the University of Twente.
