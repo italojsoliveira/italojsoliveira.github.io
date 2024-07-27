@@ -31,6 +31,12 @@ I have always been persistent in chasing my goals. However, I have been extremel
 </figure>
 
 - I was part of the organization team of the [2024 International Conference on Formal Ontology in Information Systems (FOIS)](https://www.utwente.nl/en/eemcs/fois2024/), which happened at the University of Twente. Moreover, I organized the [Semantic Shields I: 1st International Workshop on Modeling for Cybersecurity(https://www.utwente.nl/en/eemcs/semantic-shields/)], one of the 2024 Joint Ontology Workshops (JOWO), co-located with FOIS.
+- 
+<figure>
+    <img src="/images/fois_2024_org.JPG" width="200" height="100"
+         alt="Organization team of FOIS 2024">
+    <figcaption>Organization team of FOIS 2024</a>.</figcaption>
+</figure>
 
 ### 2023
 
