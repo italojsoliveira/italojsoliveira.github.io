@@ -30,8 +30,8 @@ I have always been persistent in chasing my goals. However, I have been extremel
     <figcaption>After my successful PhD thesis defense at the Faculty of Engineering of the Free University of Bozen-Bolzano, Italy🇮🇹, 2024. From left to right: <a href="https://scholar.google.se/citations?user=tC2X4k0AAAAJ">Manfred Jeusfeld</a>, <a href="https://people.utwente.nl/t.princesales">Tiago Prince Sales</a>, myself, <a href="https://en.wikipedia.org/wiki/Giancarlo_Guizzardi">Giancarlo Guizzardi</a>, <a href="https://www.inf.unibz.it/~franconi/">Enrico Franconi</a>, and <a href="https://scholar.google.com/citations?user=2CN14WkAAAAJ">Raimundas Matulevičius</a>.</figcaption>
 </figure>
 
-- I was part of the organization team of the [2024 International Conference on Formal Ontology in Information Systems (FOIS)](https://www.utwente.nl/en/eemcs/fois2024/), which happened at the University of Twente. Moreover, I organized the [Semantic Shields I: 1st International Workshop on Modeling for Cybersecurity(https://www.utwente.nl/en/eemcs/semantic-shields/)], one of the 2024 Joint Ontology Workshops (JOWO), co-located with FOIS.
-- 
+- I was part of the organization team of the [2024 International Conference on Formal Ontology in Information Systems (FOIS)](https://www.utwente.nl/en/eemcs/fois2024/), which happened at the University of Twente. Moreover, I organized the [Semantic Shields I: 1st International Workshop on Modeling for Cybersecurity](https://www.utwente.nl/en/eemcs/semantic-shields/), one of the 2024 Joint Ontology Workshops (JOWO), co-located with FOIS.
+
 <figure>
     <img src="/images/fois_2024_org.JPG" width="200" height="100"
          alt="Organization team of FOIS 2024">
@@ -55,6 +55,12 @@ I have always been persistent in chasing my goals. However, I have been extremel
 ### 2019
 
 - I obtained a Doctor of Law degree from the Federal University of Pernambuco, Brazil🇧🇷, researching artificial intelligence as a solution for the court congestion problem under the supervision of [Prof. Torquato da Silva Castro Júnior](http://lattes.cnpq.br/3738419253523414) and [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en).
+
+<figure>
+    <img src="/images/ppgd_phd.png" width="200" height="100"
+         alt="PPGD PhD thesis defense">
+    <figcaption>...</figcaption>
+</figure>
 
 ### 2018
 
