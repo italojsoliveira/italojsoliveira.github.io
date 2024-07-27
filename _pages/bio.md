@@ -35,7 +35,7 @@ I have always been persistent in chasing my goals. However, I have been extremel
 <figure>
     <img src="/images/fois_2024_org.JPG" width="200" height="100"
          alt="Organization team of FOIS 2024">
-    <figcaption>Organization team of FOIS 2024</a>.</figcaption>
+    <figcaption>Organization team of FOIS 2024.</figcaption>
 </figure>
 
 ### 2023
@@ -55,12 +55,6 @@ I have always been persistent in chasing my goals. However, I have been extremel
 ### 2019
 
 - I obtained a Doctor of Law degree from the Federal University of Pernambuco, Brazil🇧🇷, researching artificial intelligence as a solution for the court congestion problem under the supervision of [Prof. Torquato da Silva Castro Júnior](http://lattes.cnpq.br/3738419253523414) and [Prof. Fred Freitas](https://scholar.google.co.uk/citations?user=bp0hZ8QAAAAJ&hl=en).
-
-<figure>
-    <img src="/images/ppgd_phd.png" width="200" height="100"
-         alt="PPGD PhD thesis defense">
-    <figcaption>...</figcaption>
-</figure>
 
 ### 2018
 
