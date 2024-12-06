@@ -5,7 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have experience teaching Legal Hermeneutics, Critical Thinking, Legal Philosophy, introduction to formal logic, and Python programming for lawyers. See, for instance:
+My recent teaching experience includes a *Requirements Engineering* Master's course (2024-2025) at the University of Twente and a lecture on Risk and Security Modeling in ArchiMate in the *Architecture of Information Systems* Master's course (2023).
+
+
+I also have experience teaching Legal Hermeneutics, Critical Thinking, Legal Philosophy, introduction to formal logic, and Python programming for lawyers. See, for instance:
 
 - [Law, Logic and Symbolic Artificial Intelligence](https://sites.google.com/view/italojsoliveira/teaching/law-logic-and-symbolic-artificial-intelligence)
 
