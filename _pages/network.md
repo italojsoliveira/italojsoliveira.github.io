@@ -5,7 +5,7 @@ permalink: /network/
 author_profile: true
 ---
 
-Ítalo Oliveira aka Ítalo J. S. Oliveira, Ítalo José da Silva Oliveira
+*Ítalo Oliveira* aka *Ítalo J. S. Oliveira*, *Ítalo José da Silva Oliveira*
 
 ### ACADEMIC
 
