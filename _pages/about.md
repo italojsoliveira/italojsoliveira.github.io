@@ -17,10 +17,10 @@ Doctor of Law from the Federal University of Pernambuco, Brazil🇧🇷.
 Currently, I am interested in developing ontologically well-founded and logically rigorous technology solutions for risk management, particularly in cybersecurity.
 
 - Current research areas:
-  - Conceptual Modeling
-  - Applied Ontology
-  - Ontology Engineering, Knowledge Representation
+  - Ontology-driven Conceptual Modeling
+  - Ontology Engineering & Knowledge Representation
+  - Linked Data and Semantic Web
   - Enterprise Modeling
-  - Risk Management and Cybersecurity
+  - Applications to Risk Management and Cybersecurity
 
 I casually blog [Not So Short Notes](https://notsoshortnotes.wordpress.com/).
