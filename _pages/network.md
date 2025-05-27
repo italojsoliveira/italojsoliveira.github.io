@@ -38,6 +38,8 @@ author_profile: true
 
 - [Facebook](https://www.facebook.com/italo.oliveira.3154/)
 
+- [YouTube](https://www.youtube.com/@italojsoliveira)
+
 
 ### Development
 
