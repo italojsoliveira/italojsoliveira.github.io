@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Information Analyst at [Y.digital](https://www.y.digital/en-us), working with information modeling and Linked Data in the public and private sector.
+I am a Senior Information Analyst at [Y.digital](https://www.y.digital/en-us), working with information modeling and Linked Data in the public and private sectors.
 
 PhD in Computer Science from the Free University of Bozen-Bolzano, Italy🇮🇹.
 
