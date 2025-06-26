@@ -21,9 +21,9 @@ I have always been persistent in chasing my goals. However, I have been extremel
 
 ### 2025
 
-- I started to work as Senior Information Analyst at [Y.digital](https://www.y.digital/en-us), working with information modeling, ontologies, and Linked Data in the public and private sectors. In parallel, I maintained research activities as a Guest Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)) at the University of Twente.
+- I started to work as Senior Information Analyst at [Y.digital](https://www.y.digital/en-us), working with information modeling, ontologies, and Linked Data in the public and private sectors. In parallel, I maintained research activities as a Guest Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)) at the University of Twente, in The Netherlands🇳🇱.
 
-- My paper "[An Ontological Model of the Phishing Attack Process](https://link.springer.com/chapter/10.1007/978-3-031-95397-2_17)" won the Best Paper Award at [EMMSAD 2025](https://www.emmsad.org/).
+- My paper "[An Ontological Model of the Phishing Attack Process](https://link.springer.com/chapter/10.1007/978-3-031-95397-2_17)" won the *Best Paper Award* at [EMMSAD 2025](https://www.emmsad.org/).
 
 
 

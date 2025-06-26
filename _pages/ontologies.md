@@ -25,4 +25,4 @@ PHATO is a well-founded Phishing Attack Ontology, specified in OntoUML modeling 
 
 ## [PAPO: A Phishing Attack Process Ontology](http://w3id.org/phishing-process-ontology/git)
 
-PHATO is an evolution of PHATO. It is a well-founded core ontology that aims to characterizes the process of phishing attack incidents.
+PAPO is an evolution of PHATO. It is a well-founded core ontology that aims to characterizes the process of phishing attack incidents. The related paper "[An Ontological Model of the Phishing Attack Process](https://link.springer.com/chapter/10.1007/978-3-031-95397-2_17)" won the *Best Paper Award* at [EMMSAD 2025](https://www.emmsad.org/).
