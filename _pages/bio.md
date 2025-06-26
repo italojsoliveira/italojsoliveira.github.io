@@ -15,9 +15,16 @@ author_profile: true
 My full name is "Ítalo José da Silva Oliveira", but I sign my scientific publications as "Ítalo Oliveira" only.🙂
 
 
-With a background as a Lawyer, Law Teacher, and Researcher in the Philosophy of Law, fascinated by mathematical logic, which I met due to my philosophy studies in law school, I decided to pursue a career in Computer Science, believing information technology is taking over every aspect of society and every research field.
+With a background as a Lawyer, Law Teacher, and Researcher in the Philosophy of Law, I became fascinated by mathematical logic, which I first encountered through my philosophy studies in law school, I decided to pursue a career in Computer Science, believing information technology is taking over every aspect of society and every research field.
 
 I have always been persistent in chasing my goals. However, I have been extremely fortunate to meet incredible and kind people without whom I would not have achieved anything.
+
+### 2025
+
+- I started to work as Senior Information Analyst at [Y.digital](https://www.y.digital/en-us), working with information modeling, ontologies, and Linked Data in the public and private sectors. In parallel, I maintained research activities as a Guest Researcher at the _Semantics, Cybersecurity and Services Group_ ([SCS](https://www.utwente.nl/en/eemcs/scs/)) at the University of Twente.
+
+- My paper "[An Ontological Model of the Phishing Attack Process](https://link.springer.com/chapter/10.1007/978-3-031-95397-2_17)" won the Best Paper Award at [EMMSAD 2025](https://www.emmsad.org/).
+
 
 
 ### 2024
