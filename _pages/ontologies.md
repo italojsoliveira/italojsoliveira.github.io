@@ -22,3 +22,7 @@ ROSE is a well-founded reference ontology, specified in OntoUML modeling languag
 ## [PHATO: A Phishing Attack Ontology](https://purl.org/phishing-ontology)
 
 PHATO is a well-founded Phishing Attack Ontology, specified in OntoUML modeling language, built by reusing the Reference Ontology for Security Engineering (ROSE).
+
+## [PAPO: A Phishing Attack Process Ontology](http://w3id.org/phishing-process-ontology/git)
+
+PHATO is an evolution of PHATO. It is a well-founded core ontology that aims to characterizes the process of phishing attack incidents.
